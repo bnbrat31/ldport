@@ -16,7 +16,7 @@ export default function HeroSection() {
   trackLead("Hero: Hero CTA Clicked");
 
   // Redirect ke WhatsApp
-  const message = encodeURIComponent("Hi Captain Komang, I'm contacting you from the website.");
+  const message = encodeURIComponent("Hi Komang Rediasa, I'm contacting you from the website.");
   window.open(`https://wa.me/${waNumber}?text=${message}`, "_blank");
 };
 

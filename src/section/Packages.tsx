@@ -57,7 +57,7 @@ export default function Packages() {
     setTimeout(() => {
       const waNumber = settings.brand.contact.whatsapp;
       const message = encodeURIComponent(
-        `Hi Captain, I'm interested in the ${pkgTitle} package.`
+        `Hi Komang Rediasa, I'm interested in the ${pkgTitle} package.`
       );
       window.open(`https://wa.me/${waNumber}?text=${message}`, "_blank");
       setLoading(null);

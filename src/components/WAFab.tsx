@@ -19,7 +19,7 @@ export default function WhatsAppFAB() {
     const waNumber = settings.contact.phone; // Sesuaikan path json Anda
     trackLead("FAB: WhatsApp Floating Button Clicked");
 
-    const message = encodeURIComponent("Hi Captain, I'm interested in booking a sunrise expedition!");
+    const message = encodeURIComponent("Hi Komang Rediasa, I'm interested in booking a sunrise expedition!");
     window.open(`https://wa.me/${waNumber.replace(/\D/g, '')}?text=${message}`, "_blank");
   };
 

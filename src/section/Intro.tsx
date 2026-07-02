@@ -36,7 +36,7 @@ export default function IntroSection() {
   trackLead("Intro: Contact Us Clicked");
 
   // Redirect ke WhatsApp
-  const message = encodeURIComponent("Hi Captain Ketut, I'm contacting you from the website.");
+  const message = encodeURIComponent("Hi Komang Rediasa, I'm contacting you from the website.");
   window.open(`https://wa.me/${waNumber}?text=${message}`, "_blank");
 };
 
