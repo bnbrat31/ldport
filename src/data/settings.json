@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "name": "Lovina Dolphin Port",
+    "logo": "/logo.png",
+    "contact": {
+      "whatsapp": "6282266003334",
+      "email": "info@lovinadolphinport.com",
+      "address": "Lovina Beach, Kalibukbuk, Bali"
+    }
+  },
+  "appearance": {
+    "theme": "ocean-sunset",
+    "main_font": "font-poppins",
+    "body_font": "font-roboto"
+  },
+  "homepage": {
+    "hero": {
+      "title": "Chase the Sunrise, Meet the Ocean’s Spirit",
+      "subtitle": "Step aboard for an intimate encounter with Lovina's wild dolphins. A bespoke maritime adventure guided by local tradition and world-class hospitality.",
+      "cta_text": "Book Your Adventure",
+      "bg_image": "https://res.cloudinary.com/dv7z1c2xj/image/upload/v1783000603/images_qgfr7g.jpg"
+    }
+  },
+  "siteName": "Lovina Dolphin Port",
+  "hero": {
+    "title": "The Ultimate North Bali Expedition",
+    "description": "Witness the magic of dancing dolphins in Bali's northern waters, led by expert local navigators who know the sea by heart.",
+    "buttonText": "Secure Your Seat"
+  },
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/dolphintourbali",
+    "instagram": "https://www.instagram.com/dolphintourbali",
+    "twitter": "https://twitter.com/dolphintourbali"
+  },
+  "intro": {
+    "title": "Unveil the Secrets of the Bali Sea. Your Journey Into the Wild Starts Here.",
+    "description": "Welcome to Lovina Dolphin Port. We don’t just offer a boat ride; we provide a gateway to North Bali’s marine wonders. From the legendary golden sunrise dolphin tours to immersive snorkeling and deep-sea fishing expeditions, our mission is to create memories that last a lifetime with warmth and genuine Balinese charm."
+  },
+  "contact": {
+    "captainName": "Captain Komang Rediasa",
+    "captainImage": "https://res.cloudinary.com/dv7z1c2xj/image/upload/v1782999866/temp_74-py9ii9hs7tdcaop4nev3qljpbo1g0dda4irdzy9pa8_d2geen.png",
+    "address": "Lovina Beach, Spice Beach Club Area, Near Pepito Market, Kaliasem, Buleleng, Bali 81152",
+    "phone": "+6282266003334",
+    "email": "info@lovinadolphinport.com",
+    "socials": {
+      "facebook": "#",
+      "twitter": "#",
+      "youtube": "#",
+      "pinterest": "#",
+      "instagram": "#"
+    },
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3949.556364474112!2d115.04381249999999!3d-8.1465625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd19b02dbc571ef%3A0x56cd60a8da899795!2sLovina%20Dolphin%20PORT!5e0!3m2!1sid!2sid!4v1783004286314!5m2!1sid!2sid"
+  },
+  "features": [
+    {
+      "id": 1,
+      "title": "Expert Maritime Heritage",
+      "description": "Captain Komang Redi carries a lifetime of seafaring wisdom. Friendly, skilled, and deeply connected to the Lovina tides.",
+      "iconId": "anchor"
+    },
+    {
+      "id": 2,
+      "title": "The Golden Hour Safari",
+      "description": "Set sail at 6:00 AM to witness dolphins in their natural playground as the sun breaks the horizon. A 3-hour pure magic journey.",
+      "iconId": "compass"
+    },
+    {
+      "id": 3,
+      "title": "Premium Safety Standard",
+      "description": "Travel with peace of mind. Our traditional outriggers are modernized with full safety equipment for a secure family outing.",
+      "iconId": "shield"
+    },
+    {
+      "id": 4,
+      "title": "Seamless Arrival",
+      "description": "Relax and let us handle the transport. Complimentary shuttle service for all guests staying within the Lovina heartland.",
+      "iconId": "mapPin"
+    }
+  ],
+  "overview": {
+    "title": "The Experience",
+    "description": "Escape the ordinary and dive into the tranquil beauty of North Bali. Our tours offer a rare front-row seat to the graceful synchronized swimming of wild dolphins. Whether you’re seeking a romantic sunrise or a thrilling family discovery, we blend the raw beauty of nature with the comfort of professional guiding.",
+    "bestTime": "April to October (Dry Season)",
+    "note": "Safety first: Tours are subject to favorable sea conditions and BMKG weather updates.",
+    "image": "https://res.cloudinary.com/dv7z1c2xj/image/upload/v1773588446/LDW-4-768x543_o6r7pb.png"
+  },
+  "terms": {
+    "title": "Booking Essentials",
+    "steps": [
+      "Reservations are required at least 24 hours in advance via WhatsApp.",
+      "Our rendezvous point is Lovina Central (near Pepito). Live location will be shared upon booking confirmation.",
+      "To secure your spot, please send proof of transfer (BRI or WISE). Alternative payments available upon request."
+    ],
+    "payment": {
+      "bank": {
+        "name": "Bank Central Asia",
+        "accountName": "Komang Rediasa",
+        "accountNo": "8271116478"
+      },
+      "wiseLink": "#"
+    }
+  }
+}

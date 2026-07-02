@@ -1,0 +1,74 @@
+[
+  {
+    "id": "dolphin-watching",
+    "title": "Sunrise Dolphin Odyssey",
+    "subtitle": "The classic Lovina experience. Witness wild dolphins dancing at dawn.",
+    "sharingPrice": 100000,
+    "privatePrice": 150000,
+    "duration": "2 Hours",
+    "included": [
+      "Traditional Outrigger Boat",
+      "Certified Sea Captain",
+      "Life Jacket & Safety Gear",
+      "Complimentary Mineral Water",
+      "Dolphin Search Guarantee"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dv7z1c2xj/image/upload/v1782999912/swim-with-dolphin-576x1024_m9qpuq.webp"
+    ]
+  },
+  {
+    "id": "swimming-with-dolphin",
+    "title": "Wild Dolphin Swim Encounter",
+    "subtitle": "An immersive underwater journey. Feel the magic as you swim alongside them.",
+    "sharingPrice": 200000,
+    "privatePrice": 250000,
+    "duration": "3 Hours",
+    "included": [
+      "Swimming with Dolphin Experience",
+      "Premium Snorkel & Mask",
+      "Fins & Life Jacket",
+      "Underwater Photo Assistance",
+      "Mineral Water"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dv7z1c2xj/image/upload/v1782999933/swim-jpg_lrxzjs.webp"
+    ]
+  },
+  {
+    "id": "snorkeling-lovina",
+    "title": "Lovina Coral Garden Snorkeling",
+    "subtitle": "Discover the hidden vibrant marine life of Bali's north coast.",
+    "sharingPrice": 100000,
+    "privatePrice": 150000,
+    "duration": "2 Hours",
+    "included": [
+      "Boat Trip to Snorkel Sites",
+      "Mask, Snorkel & Fins",
+      "Bread for Fish Feeding",
+      "Life Jacket",
+      "Experienced Snorkel Guide"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dv7z1c2xj/image/upload/v1782999922/snork-576x1024_zbabu6.webp"
+    ]
+  },
+  {
+    "id": "fishing-tour",
+    "title": "Traditional Balinese Fishing Tour",
+    "subtitle": "Test your luck and skill in the calm, deep waters of the North Bali Sea.",
+    "sharingPrice": 250000,
+    "privatePrice": 300000,
+    "duration": "3 Hours",
+    "included": [
+      "Traditional Fishing Gear & Bait",
+      "Expert Local Fishing Guide",
+      "Ice Box for Catch",
+      "Life Jacket",
+      "On-Boat Refreshments"
+    ],
+    "images": [
+      "https://res.cloudinary.com/dv7z1c2xj/image/upload/v1782999902/Fishing-jpg-pxkyf69nhuxpg1oocauho3wxa86tuvjzqfr0lwpjr4_qwfn8p.webp"
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+/* 1. REGISTRASI TEMA TAILWIND V4 */
+@theme {
+  /* Daftarkan Font Family agar bisa digunakan via class 'font-playfair' & 'font-urbanist' */
+  --font-playfair: var(--font-playfair);
+  --font-urbanist: var(--font-urbanist);
+
+  /* Daftarkan Warna agar bisa digunakan via class 'bg-primary-900', 'text-accent', dll */
+  --color-primary-50: #f0f7ff;
+  --color-primary-100: #e0effe;
+  --color-primary-500: #0ea5e9;
+  --color-primary-600: #0284c7;
+  --color-primary-700: #0369a1;
+  --color-primary-800: #075985;
+  --color-primary-900: #0c4a6e;
+
+  --color-accent: #f59e0b;
+  --color-accent-light: #fbbf24;
+  --color-accent-dark: #b45309;
+
+  --color-neutral-50: #f8fafc;
+  --color-neutral-100: #f1f5f9;
+  --color-neutral-200: #e2e8f0;
+  --color-neutral-800: #1e293b;
+
+  --color-plankton: #2dd4bf;
+}
+
+/* 2. BASE STYLES */
+@layer base {
+  body {
+    /* Gunakan variabel font dari Next.js yang sudah kita set di layout.tsx */
+    font-family: var(--font-urbanist), sans-serif;
+    @apply bg-neutral-50 text-neutral-800 antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-playfair), serif;
+    @apply text-primary-900 tracking-tight leading-tight;
+  }
+
+  h1, h2 { @apply italic; }
+}
+
+/* 3. CUSTOM COMPONENTS */
+@layer components {
+  /* Tombol Luxury Blue */
+  .btn-primary {
+    font-family: var(--font-urbanist), sans-serif;
+    @apply bg-primary-900 text-white px-8 py-4 rounded-full 
+           font-bold uppercase tracking-wider text-sm
+           hover:bg-primary-800 transition-all duration-300 
+           shadow-lg shadow-primary-900/20 active:scale-95;
+  }
+
+  /* Tombol Sunrise Gold */
+  .btn-accent {
+    font-family: var(--font-urbanist), sans-serif;
+    @apply bg-accent text-primary-900 px-8 py-4 rounded-full 
+           font-black uppercase tracking-widest text-sm
+           hover:bg-accent-light transition-all duration-300 
+           shadow-lg shadow-accent/30 active:scale-95;
+  }
+
+  .glass-card {
+    @apply bg-white/80 backdrop-blur-md border border-neutral-200 shadow-sm rounded-2xl;
+  }
+}
+
+/* 4. UTILITIES & ANIMATIONS */
+@utility bg-ocean-glow {
+  background: linear-gradient(180deg, #0c4a6e 0%, #075985 100%);
+}
+
+@keyframes subtle-zoom {
+  from { transform: scale(1); }
+  to { transform: scale(1.1); }
+}
+
+.animate-subtle-zoom {
+  animation: subtle-zoom 20s infinite alternate ease-in-out;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f0f7ff;
+}
+::-webkit-scrollbar-thumb {
+  background: #0369a1;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #0c4a6e;
+}

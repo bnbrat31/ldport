@@ -1,0 +1,76 @@
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Fabian",
+      "origin": "Germany",
+      "rating": 5,
+      "date": "February 16, 2026",
+      "text": "An absolute masterpiece of an experience! Captain Komang went the extra mile, taking us far beyond the crowds. Seeing a pod of 12 dolphins dancing right beside our boat was a moment I'll never forget. Truly elite service!"
+    },
+    {
+      "id": "2",
+      "name": "Szymek",
+      "origin": "Poland",
+      "rating": 5,
+      "date": "January 29, 2026",
+      "text": "The most respectful dolphin tour in Lovina. Our guide focused on finding the perfect spot without intruding on the animals' space. We stayed out until we truly felt satisfied. Highly recommended for conscious travelers."
+    },
+    {
+      "id": "3",
+      "name": "Dajana",
+      "origin": "Australia",
+      "rating": 5,
+      "date": "December 10, 2025",
+      "text": "Life-changing! The team gave me the courage to jump into the blue, and it was magical. The barrier reef was a kaleidoscope of colors. I’ve already told all my friends: if you're in Bali, you must book with them."
+    },
+    {
+      "id": "4",
+      "name": "Elaina",
+      "origin": "Germany",
+      "rating": 5,
+      "date": "November 14, 2025",
+      "text": "Everything was seamless. From the early morning pickup to the sunrise over the North Bali Sea. The water was crystal clear, and the snorkeling felt like swimming in a giant aquarium."
+    },
+    {
+      "id": "5",
+      "name": "Carolina",
+      "origin": "Kazakhstan",
+      "rating": 5,
+      "date": "November 14, 2025",
+      "text": "Exceeded every expectation. The crew is so attentive and safety-conscious. Seeing the dolphins jump against the golden horizon is a core memory now. The perfect balance of adventure and peace."
+    },
+    {
+      "id": "6",
+      "name": "Sarah J.",
+      "origin": "United Kingdom",
+      "rating": 5,
+      "date": "March 12, 2026",
+      "text": "[DUMMY DATA] A breathtaking morning! We opted for the private tour and it was worth every penny. Captain Komang’s knowledge of the tides made all the difference. We were the first to find the pod!"
+    },
+    {
+      "id": "7",
+      "name": "Jean-Pierre",
+      "origin": "France",
+      "rating": 5,
+      "date": "March 05, 2026",
+      "text": "[DUMMY DATA] Exceptional! The bioluminescent plankton tour was pure magic. Swimming in the glowing water under the stars felt like being in a movie. A must-do experience in Lovina."
+    },
+    {
+      "id": "8",
+      "name": "Yuki Tanaka",
+      "origin": "Japan",
+      "rating": 5,
+      "date": "February 20, 2026",
+      "text": "[DUMMY DATA] Very professional and punctual. The equipment was clean and modern. As a solo traveler, I felt very safe and welcomed by the captain and the rest of the group."
+    },
+    {
+      "id": "9",
+      "name": "Jeremi B.",
+      "origin": "Canada",
+      "rating": 5,
+      "date": "April 25, 2025",
+      "text": "A true pro at work. We spent two hours swimming with dolphins in total serenity. You can tell they really care about marine conservation and don't rush the animals. The best guide in Bali, hands down."
+    }
+  ]
+}
